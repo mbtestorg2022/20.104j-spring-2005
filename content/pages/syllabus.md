@@ -25,11 +25,48 @@ Grading Policy
 
 Percentage contributions to the final grade are as follows:
 
-| Activities | Percentages |
-| --- | --- |
-| Quizzes (Two, 25% each) | 50% |
-| Homework Assignments (10-page Book Critique, 10%; 5 Problem Sets, 15%) | 25% |
-| Team Project (Team Project Paper, 15%; Team Project Presentation, 10%) | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes (Two, 25% each)
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework Assignments (10-page Book Critique, 10%; 5 Problem Sets, 15%)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Project (Team Project Paper, 15%; Team Project Presentation, 10%)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Recitations
 -----------

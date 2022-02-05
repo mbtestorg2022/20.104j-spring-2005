@@ -6,13 +6,66 @@ uid: 46f448cb-c5d5-f10d-68ed-b62fbaaf26e5
 
 Students are assigned several problem sets and a paper reviewing the course text _The Lady Tasting Tea_. During the 2nd half of the term, students will also be working on a major team [project]({{< baseurl >}}/pages/projects).
 
-| problem sets | solutions |
-| --- | --- |
-| Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1)) | &nbsp; |
-| Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2)) | ([PDF]({{< baseurl >}}/resources/ps2_soln)) |
-| Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3)) | ([PDF]({{< baseurl >}}/resources/ps3_soln)) |
-| Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4)) | &nbsp; |
-| Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5)) | ([PDF]({{< baseurl >}}/resources/ps5_soln)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+problem sets
+{{< thclose >}}
+{{< thopen >}}
+solutions
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps2_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps3_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps5_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Lady Tasting Tea_ Paper
 ------------------------
