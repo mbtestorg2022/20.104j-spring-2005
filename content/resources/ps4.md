@@ -4,6 +4,7 @@ description: This resource includes 4 problems on Environmental chemicals and He
   Risk Assessment.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/3d2c7b43ae1239a501a9d025a3a53a0a_ps4.pdf
 file_type: application/pdf
+parent_uid: 46f448cb-c5d5-f10d-68ed-b62fbaaf26e5
 resourcetype: Document
 title: ps4.pdf
 uid: 3d2c7b43-ae12-39a5-01a9-d025a3a53a0a
